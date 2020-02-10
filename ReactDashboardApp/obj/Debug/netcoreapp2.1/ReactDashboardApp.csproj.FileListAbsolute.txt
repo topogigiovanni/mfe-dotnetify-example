@@ -1,0 +1,17 @@
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\bin\Debug\netcoreapp2.1\ReactDashboardApp.deps.json
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\bin\Debug\netcoreapp2.1\ReactDashboardApp.runtimeconfig.json
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\bin\Debug\netcoreapp2.1\ReactDashboardApp.runtimeconfig.dev.json
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\bin\Debug\netcoreapp2.1\ReactDashboardApp.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\bin\Debug\netcoreapp2.1\ReactDashboardApp.pdb
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\bin\Debug\netcoreapp2.1\Shared.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\bin\Debug\netcoreapp2.1\Shared.pdb
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\obj\Debug\netcoreapp2.1\ReactDashboardApp.csprojAssemblyReference.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\obj\Debug\netcoreapp2.1\ReactDashboardApp.csproj.CoreCompileInputs.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\obj\Debug\netcoreapp2.1\ReactDashboardApp.RazorAssemblyInfo.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\obj\Debug\netcoreapp2.1\ReactDashboardApp.RazorAssemblyInfo.cs
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\obj\Debug\netcoreapp2.1\ReactDashboardApp.AssemblyInfoInputs.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\obj\Debug\netcoreapp2.1\ReactDashboardApp.AssemblyInfo.cs
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\obj\Debug\netcoreapp2.1\ReactDashboardApp.RazorTargetAssemblyInfo.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\obj\Debug\netcoreapp2.1\ReactDashboardApp.csproj.CopyComplete
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\obj\Debug\netcoreapp2.1\ReactDashboardApp.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactDashboardApp\obj\Debug\netcoreapp2.1\ReactDashboardApp.pdb

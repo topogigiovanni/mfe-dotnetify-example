@@ -1,0 +1,17 @@
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\bin\Debug\netcoreapp2.1\VueTodoApp.deps.json
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\bin\Debug\netcoreapp2.1\VueTodoApp.runtimeconfig.json
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\bin\Debug\netcoreapp2.1\VueTodoApp.runtimeconfig.dev.json
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\bin\Debug\netcoreapp2.1\VueTodoApp.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\bin\Debug\netcoreapp2.1\VueTodoApp.pdb
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\bin\Debug\netcoreapp2.1\Shared.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\bin\Debug\netcoreapp2.1\Shared.pdb
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\obj\Debug\netcoreapp2.1\VueTodoApp.csprojAssemblyReference.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\obj\Debug\netcoreapp2.1\VueTodoApp.csproj.CoreCompileInputs.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\obj\Debug\netcoreapp2.1\VueTodoApp.RazorAssemblyInfo.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\obj\Debug\netcoreapp2.1\VueTodoApp.RazorAssemblyInfo.cs
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\obj\Debug\netcoreapp2.1\VueTodoApp.AssemblyInfoInputs.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\obj\Debug\netcoreapp2.1\VueTodoApp.AssemblyInfo.cs
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\obj\Debug\netcoreapp2.1\VueTodoApp.RazorTargetAssemblyInfo.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\obj\Debug\netcoreapp2.1\VueTodoApp.csproj.CopyComplete
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\obj\Debug\netcoreapp2.1\VueTodoApp.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\VueTodoApp\obj\Debug\netcoreapp2.1\VueTodoApp.pdb

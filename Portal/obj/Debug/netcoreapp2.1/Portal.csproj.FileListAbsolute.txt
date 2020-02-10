@@ -1,0 +1,17 @@
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\bin\Debug\netcoreapp2.1\Portal.deps.json
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\bin\Debug\netcoreapp2.1\Portal.runtimeconfig.json
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\bin\Debug\netcoreapp2.1\Portal.runtimeconfig.dev.json
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\bin\Debug\netcoreapp2.1\Portal.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\bin\Debug\netcoreapp2.1\Portal.pdb
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\bin\Debug\netcoreapp2.1\Shared.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\bin\Debug\netcoreapp2.1\Shared.pdb
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\obj\Debug\netcoreapp2.1\Portal.csprojAssemblyReference.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\obj\Debug\netcoreapp2.1\Portal.csproj.CoreCompileInputs.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\obj\Debug\netcoreapp2.1\Portal.RazorAssemblyInfo.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\obj\Debug\netcoreapp2.1\Portal.RazorAssemblyInfo.cs
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\obj\Debug\netcoreapp2.1\Portal.AssemblyInfoInputs.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\obj\Debug\netcoreapp2.1\Portal.AssemblyInfo.cs
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\obj\Debug\netcoreapp2.1\Portal.RazorTargetAssemblyInfo.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\obj\Debug\netcoreapp2.1\Portal.csproj.CopyComplete
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\obj\Debug\netcoreapp2.1\Portal.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\Portal\obj\Debug\netcoreapp2.1\Portal.pdb

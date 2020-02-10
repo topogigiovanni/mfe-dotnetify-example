@@ -1,0 +1,17 @@
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\bin\Debug\netcoreapp2.1\ReactTodoApp.deps.json
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\bin\Debug\netcoreapp2.1\ReactTodoApp.runtimeconfig.json
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\bin\Debug\netcoreapp2.1\ReactTodoApp.runtimeconfig.dev.json
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\bin\Debug\netcoreapp2.1\ReactTodoApp.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\bin\Debug\netcoreapp2.1\ReactTodoApp.pdb
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\bin\Debug\netcoreapp2.1\Shared.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\bin\Debug\netcoreapp2.1\Shared.pdb
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\obj\Debug\netcoreapp2.1\ReactTodoApp.csprojAssemblyReference.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\obj\Debug\netcoreapp2.1\ReactTodoApp.csproj.CoreCompileInputs.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\obj\Debug\netcoreapp2.1\ReactTodoApp.RazorAssemblyInfo.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\obj\Debug\netcoreapp2.1\ReactTodoApp.RazorAssemblyInfo.cs
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\obj\Debug\netcoreapp2.1\ReactTodoApp.AssemblyInfoInputs.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\obj\Debug\netcoreapp2.1\ReactTodoApp.AssemblyInfo.cs
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\obj\Debug\netcoreapp2.1\ReactTodoApp.RazorTargetAssemblyInfo.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\obj\Debug\netcoreapp2.1\ReactTodoApp.csproj.CopyComplete
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\obj\Debug\netcoreapp2.1\ReactTodoApp.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactTodoApp\obj\Debug\netcoreapp2.1\ReactTodoApp.pdb

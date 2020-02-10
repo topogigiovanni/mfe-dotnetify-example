@@ -1,0 +1,17 @@
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\bin\Debug\netcoreapp2.1\ReactFormApp.deps.json
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\bin\Debug\netcoreapp2.1\ReactFormApp.runtimeconfig.json
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\bin\Debug\netcoreapp2.1\ReactFormApp.runtimeconfig.dev.json
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\bin\Debug\netcoreapp2.1\ReactFormApp.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\bin\Debug\netcoreapp2.1\ReactFormApp.pdb
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\bin\Debug\netcoreapp2.1\Shared.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\bin\Debug\netcoreapp2.1\Shared.pdb
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\obj\Debug\netcoreapp2.1\ReactFormApp.csprojAssemblyReference.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\obj\Debug\netcoreapp2.1\ReactFormApp.csproj.CoreCompileInputs.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\obj\Debug\netcoreapp2.1\ReactFormApp.RazorAssemblyInfo.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\obj\Debug\netcoreapp2.1\ReactFormApp.RazorAssemblyInfo.cs
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\obj\Debug\netcoreapp2.1\ReactFormApp.AssemblyInfoInputs.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\obj\Debug\netcoreapp2.1\ReactFormApp.AssemblyInfo.cs
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\obj\Debug\netcoreapp2.1\ReactFormApp.RazorTargetAssemblyInfo.cache
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\obj\Debug\netcoreapp2.1\ReactFormApp.csproj.CopyComplete
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\obj\Debug\netcoreapp2.1\ReactFormApp.dll
+D:\Projects\Microfrontends-Dotnetify-Demo\ReactFormApp\obj\Debug\netcoreapp2.1\ReactFormApp.pdb

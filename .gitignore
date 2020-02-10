@@ -1,0 +1,64 @@
+# server
+*.user
+code/.vs/
+code/*/bin/
+code/*/obj/
+code/*/.vs/
+code/*/*/bin/
+code/*/*/obj/
+code/*/*/.vs/
+code/*/*/*/bin/
+code/*/*/*/obj/
+code/EZ.Store.Layer/Custom
+code/EZ.Store.Mvc.Web/Custom
+code/EZ.Store.Mvc.Admin/Custom
+
+# build
+code/version/
+
+# custom
+code/EZ.Store.Custom/Content/*
+!code/EZ.Store.Custom/Content/Themes
+!code/EZ.Store.Custom/Content/Widgets
+!code/EZ.Store.Custom/Content/Images
+!code/EZ.Store.Custom/Content/Exports
+code/EZ.Store.Custom/Content/Themes/Mobile/templates/masters/EasyCheckoutStep
+code/EZ.Store.Custom/Content/Widgets/easy.checkout/StylesCustom
+code/EZ.Store.Custom/Content/Themes/Shared/Themes/Mobile
+code/EZ.Store.Custom/Content/Themes/Shared/Export/*
+code/EZ.Store.Custom/Content/Themes/Shared/Import/*
+code/EZ.Store.UI/Pages
+code/EZ.Store.Custom/.gitignore
+code/EZ.Store.Layer.Published
+code/EZ.Store.Mvc.Admin.Published
+code/EZ.Store.Mvc.Web.Published
+code/EZ.Store.Plugins/Plugins
+code/EZ.Store.Custom/Plugins/*
+code/EZ.Store.Custom/Logs/*
+
+# client packages
+bower_components
+node_modules
+npm-debug.log
+code/EZ.Store.Custom/Log/
+gulpcache.json
+gulpfile.tmp.*.js
+yarn.lock
+npm-debug.log.*
+log.txt
+.vscode/
+.vscode/*
+*.vscode
+**/.idea/
+package-lock.json
+
+# ADMIN generated assets
+code/EZ.Store.Mvc.Admin/admin-app/dist/
+code/EZ.Store.Mvc.Admin/Content/reference-admin/style.css
+code/EZ.Store.Mvc.Admin/admin-app/src/assets/ng-routes.js
+
+# WEB generated assets
+code/EZ.Store.Mvc.Web/Assets/*
+code/EZ\.Store\.Custom/Config/Application\.config
+code/.sonarqube/
+/.vs
